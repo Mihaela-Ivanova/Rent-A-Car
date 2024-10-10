@@ -19,9 +19,9 @@ def rent_car(cars, car_id):
 def return_car(cars, car_id, days):
     for car in cars:
         if car["id"] == car_id and car["available"] == False:
-            car["available"] == True
+            car["available"] = True
             price = days * car['rental_price']
-            return f'Thank you for returning the {car["brand"]}!\nYou have used it for {days} and it will cost you {price}'
+            return f'Thank you for returning the {car["brand"]}!\nYou have used it for {days} days and it will cost you {price} lv'
         return "Car hasn't been rented. Please check ID."
 
 
@@ -59,7 +59,7 @@ def run_program():
             print(rent_car(cars, car_id))
         elif choice == "3":
             car_id = int(input("Enter the car ID you want to return: "))
-            days = int(input("How many days did you rent the car? "))
+            days = int(input("For how many days did you use the car? "))
             print(return_car(cars, car_id, days))
         elif choice == "4":
             print("Exiting program.")

@@ -1,7 +1,7 @@
 # 🚗 Rent а Car Project
 
 # 🌟 Project goals:
-  This project develops a system for viewing, renting and returning cars. Through a menu selection made by the Frond-end, the user selects a specific option, going through a check to see if the message entered is valid. With the help of the Back-end, the corresponding function is executed and the result is again returned to the Frond-end programmer, who provides it to the user.
+  This project develops a system for viewing, renting and returning cars. Through a menu selection made by the Front-end, the user selects a specific option, going through a check to see if the message entered is valid. With the help of the Back-end, the corresponding function is executed and the result is again returned to the Front-end programmer, who provides it to the user.
 
 # 🛠 System operation
   In the car rental system, it works like this:

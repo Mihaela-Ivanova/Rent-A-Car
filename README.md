@@ -29,14 +29,20 @@ https://pastebin.com/xgB4xNV3
 
 ![опция 1](https://github.com/user-attachments/assets/2a3cbf10-0937-4d3b-bf8b-4fc05f672aa6)
 
- - Option 2:
+ - Preview of the menu with already rented cars
+
+![1](https://github.com/user-attachments/assets/9540a31e-534f-4f2f-a02e-d80050ed09a2)
+
+
+ - Option 2: Rental
 
 ![опция 2 пак](https://github.com/user-attachments/assets/6306aa60-2d3e-4edb-a3df-c6a861c64415)
 
- - Option 3:
+ - Option 3: Return
 
-![опция 3](https://github.com/user-attachments/assets/03f0c6b3-f00f-4306-a43a-41f2e2bc9841)
+![3](https://github.com/user-attachments/assets/3a04321f-015b-411c-af18-e356c3553ac9)
 
- - Option 4:
+
+ - Option 4: Exit
 
 ![опция 4](https://github.com/user-attachments/assets/37d3a5db-c191-4f4a-ac05-923681820280)

@@ -25,7 +25,7 @@ https://pastebin.com/xgB4xNV3
 
 ![1 меню](https://github.com/user-attachments/assets/c3340b7a-56ea-4eef-afea-8c24d52745cf)
 
- - Option 1:
+ - Option 1: View all available cars with technical ID, make, model, name price and whether they are currently available or not.
 
 ![опция 1](https://github.com/user-attachments/assets/2a3cbf10-0937-4d3b-bf8b-4fc05f672aa6)
 
